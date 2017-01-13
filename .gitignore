@@ -1,0 +1,14 @@
+/AutoFacSolution/.vs
+/AutoFacSolution/AutoFacSolution/bin
+/AutoFacSolution/AutoFacSolution/obj
+/AutoFacSolution/AutoFacSolution/*.user
+/AutoFacSolution/AutoFacSolution/Web.Debug.config
+/AutoFacSolution/AutoFacSolution/Web.Release.config
+/AutoFacSolution/AutoFacSolution/packages.config
+/AutoFacSolution/James.Entity/bin
+/AutoFacSolution/James.Entity/obj
+/AutoFacSolution/James.IRepository/bin
+/AutoFacSolution/James.IRepository/obj
+/AutoFacSolution/James.Repository/bin
+/AutoFacSolution/James.Repository/obj
+/AutoFacSolution/packages
